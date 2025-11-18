@@ -1,6 +1,6 @@
 **/*.rs.bk
 .#*
-Cargo.lock
 target/
 vendor
 !Makefile
+process-repo.log
